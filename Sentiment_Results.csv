@@ -1,0 +1,11 @@
+App Name,Sentiment,Review,Predicted Sentiment
+WhatsApp,Positive,"I love using WhatsApp, it's fast and easy to use.",Positive
+Instagram,Negative,"Instagram keeps crashing, very frustrating.",Negative
+Zoom,Neutral,"Zoom works fine, nothing special.",Positive
+Facebook,Negative,Facebook's UI is outdated and cluttered.,Negative
+Gmail,Positive,Gmail is super reliable and efficient.,Positive
+YouTube,Positive,YouTube has great content and recommendations.,Positive
+Twitter,Neutral,"Twitter is okay, but has a lot of negativity.",Positive
+Snapchat,Neutral,Snapchat is confusing but works.,Negative
+Spotify,Positive,Spotify offers great playlists and music quality.,Positive
+Google Maps,Negative,Google Maps sometimes gives wrong directions.,Negative
